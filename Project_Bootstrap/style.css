@@ -1,0 +1,24 @@
+body {
+    background: #ffc107;
+}
+.container-fluid#navbar-container {
+    padding: 36px 0;
+}
+
+.container-fluid#footer-container {
+    padding: 15px 0;
+    text-align: center;
+}
+.card#produto {
+    border: 2px solid #ffc107;
+    border-radius: 10px;
+}
+
+.card-img-top {
+    margin-top: 12px;
+    border-radius: 10px;
+}
+
+.d-heigth {
+    max-height: 88.4vh;
+}
